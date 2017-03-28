@@ -1,3 +1,3 @@
 # git-merge-testing
 
-a description
+A description.
